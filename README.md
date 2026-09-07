@@ -1,5 +1,5 @@
 # saferdrop-rime
-# SafeDrop — Voice-Native Delivery Confirmation (Rime Hackathon Submission)
+# SafeDrop Voice-Native Delivery Confirmation
 
 ## Problem
 Delivery agents can't look at a screen while riding or handling packages. Text-based
