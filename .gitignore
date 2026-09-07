@@ -1,0 +1,5 @@
+.env
+venv/
+static/clips/*
+__pycache__/
+*.pyc

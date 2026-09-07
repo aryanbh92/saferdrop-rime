@@ -1,0 +1,1 @@
+In a blind listening test across 10 fixtures, all listeners consistently preferred the optimized clips over baseline. This supports our claim that spacing digits and adding pauses improves clarity. Limitation: small sample size (N=1), but results were consistent.

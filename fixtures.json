@@ -1,0 +1,12 @@
+[
+  {"id": 1, "raw": "Order for Ramesh Kumar, quantity 2, cash on delivery 450 rupees."},
+  {"id": 2, "raw": "Deliver to Priya Sharma, phone 9876543210."},
+  {"id": 3, "raw": "Address: Plot 24B, Ward 5, Siwan, PIN 841226."},
+  {"id": 4, "raw": "Customer Siddheshwar Reddy, amount due 1299 rupees, phone 8123456789."},
+  {"id": 5, "raw": "Deliver to Anushka Chattopadhyay, Flat 302, Sector 12, PIN 700091."},
+  {"id": 6, "raw": "COD amount 2,750 rupees for order number RX48213."},
+  {"id": 7, "raw": "Customer Venkataramanan Iyer, phone 7000123456, PIN 600028."},
+  {"id": 8, "raw": "Delivery slot 3 to 5 PM, item: Wireless earbuds, quantity 1."},
+  {"id": 9, "raw": "Address: H.No. 15-9-203/A, Begumpet, Hyderabad, PIN 500016."},
+  {"id": 10, "raw": "Customer Mrunmayee Deshpande, amount 999.50 rupees, phone 9345678901."}
+]
